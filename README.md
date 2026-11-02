@@ -1,6 +1,6 @@
 # Omia projekteja 💪
 
-### - **Ohjelmistokehittämisen työkalut loppuprojekti** 🔧 - [Projekti](index.md)
+### - **Ohjelmistokehittämisen työkalut loppuprojekti** 🔧 - [Projekti](loppuprojekti.md)
 ### - soon
 ### - soon
 ### - soon
