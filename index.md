@@ -1,7 +1,7 @@
 ## Kim Valavaara Web-tehtävä
 
 
-# **Italics and bolds**
+# **Italics and bolds** :black_nib:
 
 Writing in Markdown is _not_ that hard!
 
@@ -15,7 +15,7 @@ I **will** complete these lessons!
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 #
-# **Using Headers**
+# **Using Headers** 	:ladder:
 
 > # Header one
 > ## Header two
@@ -30,18 +30,18 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 Here's some words about the book _One Hundred Years..._.
 #
 
-# **Links**
+# **Links** :link:
 
 
-[Search for it.](www.google.com)
+ [Search for it.](www.google.com)
 
-## Emphasising and linking
+### Emphasising and linking
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
-## Header can be links too
+### Header can be links too
 #### The Latest News from [the BBC](www.bbc.com/news)
 
-## Double link
+### Double link
 Do you want to [see something fun]["a fun place"]?
 
 Well, do I have [the website for you][another fun place]!
@@ -51,12 +51,11 @@ Well, do I have [the website for you][another fun place]!
 
 #
 
-# **Images**
+# **Images** :camera_flash:
 
-## Using images different ways 
+### Using images different ways 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-##
 ![Black cat][Black]
 
 ![Orange cat][Orange]
@@ -67,7 +66,7 @@ Well, do I have [the website for you][another fun place]!
 
 #
 
-# **Blockquoting** 
+# **Blockquoting** :black_large_square:
 I read this interesting quote the other day:
 
 > "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
@@ -84,7 +83,7 @@ I read this interesting quote the other day:
 
 #
 
-# **Lists and more lists**
+# **Lists and more lists** :page_with_curl:
 
 * Flour
 * Cheese
@@ -122,7 +121,7 @@ I read this interesting quote the other day:
     For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 #
 
-# **Better Paragraphs**
+# **Better Paragraphs** 📜
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
