@@ -1,4 +1,4 @@
-## Kim Valavaara Web-tehtävä
+## Kim Valavaara Web-tehtävä 
 
 
 # **Italics and bolds** :black_nib:
@@ -24,7 +24,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 > ##### Header five
 > ###### Header six
 
-# Book highlight
+### Book highlight
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
