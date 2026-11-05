@@ -1,6 +1,6 @@
 # Omia projekteja 💪
 
 ### - **Ohjelmistokehittämisen työkalut loppuprojekti** 🔧 - [Projekti](loppuprojekti.md)
-### - soon
+### - **Oma sivu (testasin tehdä)** - [Sivu](sivu.html)
 ### - soon
 ### - soon
