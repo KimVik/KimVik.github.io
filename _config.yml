@@ -1,1 +1,15 @@
+title: Projekti töitä
+description: Ohjelmointia ja web-kehitystä
+author: Kim
 
+theme: minima
+
+url: "https://github.com/KimVik"
+baseurl: ""
+
+github_username: KimVik
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
