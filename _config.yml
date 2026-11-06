@@ -11,6 +11,11 @@ github_username: KimVik
 
 markdown: kramdown
 
+titles_from_headings:
+  enable:  true
+  strip_title: false
+  collections: false
+
 plugins:
   - jekyll-feed
   - jemoji
