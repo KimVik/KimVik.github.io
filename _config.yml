@@ -4,6 +4,9 @@ author: Kim
 
 theme: minima
 
+sass:
+  style: compressed
+
 url: "https://github.com/KimVik"
 baseurl: ""
 
