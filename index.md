@@ -32,10 +32,10 @@ Here's some words about the book _One Hundred Years..._.
 # **Links** :link:
 
 
- [Search for it.](www.google.com)
+ [Search for it.](https://www.google.com)
 
 ### Emphasising and linking
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
 ### Header can be links too
 #### The Latest News from [the BBC](www.bbc.com/news)
