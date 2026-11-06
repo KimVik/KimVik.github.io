@@ -12,7 +12,7 @@ github_username: KimVik
 markdown: kramdown
 
 titles_from_headings:
-  enable:  true
+  enabled:  false
   strip_title: false
   collections: false
 
