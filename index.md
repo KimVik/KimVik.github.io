@@ -38,7 +38,7 @@ Here's some words about the book _One Hundred Years..._.
 [You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
 ### Header can be links too
-#### The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 
 ### Double link
 Do you want to [see something fun]["a fun place"]?
