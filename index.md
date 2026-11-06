@@ -1,7 +1,4 @@
----
-layout:post
-title: "Kim Web-tehtävä" 
----
+## Kim Web-tehtävä 
 
 # **Italics and bolds** :black_nib:
 
